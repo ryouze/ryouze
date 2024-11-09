@@ -23,10 +23,10 @@
 
 ### Github Stats
 
-![Ryouze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryouze&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true&hide_rank=true&show=prs,issues,stars)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ryouze&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true&hide_rank=true&show=prs,issues,stars)
 
 ---
 
-### Top Languages
+### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouze&layout=compact&theme=github_dark&hide=cmake,css)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouze&layout=compact&theme=github_dark&hide=cmake,css)
