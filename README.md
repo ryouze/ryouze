@@ -1,6 +1,6 @@
 # ryouze
 
-**Researcher | ML Enthusiast | Programmer**
+**Researcher | Programmer**
 
 ---
 
