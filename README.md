@@ -10,7 +10,7 @@
 - 🔬 **Researcher** in the [2020/37/B/HS2/04161 project](https://prodis-opus19.github.io/)
 - 🤖 **Research Interests**: Natural Language Processing, Machine Learning
 - 🎯 **Personal Interests**: Drifting & Japanese automotive culture, K-pop, Asian languages, electronics DIY
-- 💻 **Programming Languages**: C/C++, C#, JavaScript, Python, R, SQL
+- 💻 **Programming Languages**: Python, C/C++, Go, C#, JavaScript, R, SQL
 - 🛠️ **Programming Environment**: macOS, GNU/Linux
 
 ---
