@@ -2,8 +2,8 @@
 
 ### About Me
 
-- 🎓 **M.A.** in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology).
-- 🔬 **Former researcher** in the [2020/37/B/HS2/04161](https://prodis-opus19.github.io/) project.
+- 🎓 M.A. in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology).
+- 🔬 Former researcher in the [2020/37/B/HS2/04161](https://prodis-opus19.github.io/) project.
   - Developed a [phoneme-level GPT language model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112).
 
 ---
