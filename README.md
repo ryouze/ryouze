@@ -2,10 +2,17 @@
 
 ### About Me
 
-- 🎓 **Graduate of [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology)** at **Adam Mickiewicz University**
-- 🔬 **Researcher** in the [2020/37/B/HS2/04161 project](https://prodis-opus19.github.io/)
-- 💻 **Programming Languages**: Python, C/C++, C#, JavaScript, R, SQL
-- 🛠️ **Programming Environment**: macOS, GNU/Linux
+- 🎓 **M.A.** in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology).
+- 🔬 **Former researcher** in the [2020/37/B/HS2/04161](https://prodis-opus19.github.io/) project.
+  - Developed a [phoneme-level GPT language model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112).
+
+---
+
+### Tech Stack
+
+- 💻 **Languages**: Python, C/C++, C#, JavaScript, R, SQL
+- 🧰 **Tooling**: Git, CI/CD (GitHub Actions), CMake, Bash, systemd
+- 🖥️ **Platforms**: macOS, Linux
 
 ---
 
