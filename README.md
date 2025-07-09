@@ -1,12 +1,8 @@
 # ryouze
 
-**Researcher | Programmer**
-
----
-
 ### About Me
 
-- 🎓 **Student of [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology)** at **Adam Mickiewicz University**
+- 🎓 **Graduate of [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology)** at **Adam Mickiewicz University**
 - 🔬 **Researcher** in the [2020/37/B/HS2/04161 project](https://prodis-opus19.github.io/)
 - 🤖 **Research Interests**: Natural Language Processing, Machine Learning
 - 💻 **Programming Languages**: Python, C/C++, C#, JavaScript, R, SQL
@@ -21,9 +17,9 @@
 
 ---
 
-### Github Stats
+### GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ryouze&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true&hide_rank=true&show=prs,issues,stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryouze&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true&hide_rank=true&show=prs,issues,stars)
 
 ---
 
