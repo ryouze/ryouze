@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a software developer with 3+ years of experience building production-grade tools across NLP, backend pipelines, and cross-platform desktop applications. I work primarily in Python and modern C++, with a focus on CI/CD automation, performance, and robust infrastructure.
+I am a software developer with 3+ years of experience building production-grade tools across NLP, backend pipelines, and cross-platform desktop applications. I work primarily in Python and modern C++, with a focus on CI/CD automation, performance, and robust infrastructure.
 
 I was part of the [PRODIS project](https://prodis-opus19.github.io), where I developed a [phoneme-level GPT model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112), built CI pipelines for large-scale data processing, and shipped internal tooling used by linguists and annotators.
 
