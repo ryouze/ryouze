@@ -38,7 +38,7 @@ Outside of research, I build cross-platform tools, games, and backend infrastruc
 
 Highlights include:
 
-- `model` – Python CLI training and evaluation pipeline for a phoneme-level GPT model, with custom multithreaded tokenizer and full preprocessing stack.
+- `model` – Python CLI pipeline for training a phoneme-level GPT model on Polish IPA, with a custom tokenizer, TOML-based configs, and multithreaded scripts for formant extraction, surprisal prediction, alignment, and stress annotation.
 - `survey` – Python CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.
 - `asr` – Python CLI wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.
 - `header-warden` – C++ CLI multithreaded static analysis tool that reports missing standard library headers in C++ code.
