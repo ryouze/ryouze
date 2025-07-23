@@ -25,17 +25,15 @@ Outside of work, I develop game engines, system utilities, and self-hosted backe
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
-#### Frameworks & Libraries
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-
 #### Machine Learning
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+
+#### Web Development
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
 #### DevOps & CI/CD
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
@@ -46,6 +44,10 @@ Outside of work, I develop game engines, system utilities, and self-hosted backe
 #### Platforms & Environments
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+
+#### Miscellaneous
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 ---
 
