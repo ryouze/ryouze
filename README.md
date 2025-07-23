@@ -38,11 +38,13 @@ Outside of research, I build cross-platform tools, games, and backend infrastruc
 
 Highlights include:
 
-- `vroom` – Arcade-style 2D racing engine with procedural track generation and AI. Custom asset pipeline, cross-platform native builds.
-- `header-warden` – C++ header dependency checker with multithreaded parsing and static analysis.
-- `aegyo` – GUI tool for learning Korean Hangul, built in C++ with full keyboard/mouse input.
-- `asr` – Whisper wrapper with batch speech recognition and preprocessing.
-- `model` – Full training and evaluation pipeline for a Polish phoneme-level GPT language model.
+- `model` – Python CLI training and evaluation pipeline for a phoneme-level GPT model, with custom multithreaded tokenizer and full preprocessing stack.
+- `survey` – Python CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.
+- `asr` – Python CLI wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.
+- `vroom` – In-progress C++ GUI 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.
+- `header-warden` – C++ CLI multithreaded static analysis tool that reports missing standard library headers in C++ code.
+- `aegyo` – C++ GUI app for learning Korean Hangul with full mouse and keyboard input.
+- `fattura` – C++ GUI app for editing verification status CSV with autosave.
 
 More: [ryouze.net/projects](https://ryouze.net/projects)
 
