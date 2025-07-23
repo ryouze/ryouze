@@ -41,10 +41,10 @@ Highlights include:
 - `model` – Python CLI training and evaluation pipeline for a phoneme-level GPT model, with custom multithreaded tokenizer and full preprocessing stack.
 - `survey` – Python CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.
 - `asr` – Python CLI wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.
-- `vroom` – In-progress C++ GUI 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.
 - `header-warden` – C++ CLI multithreaded static analysis tool that reports missing standard library headers in C++ code.
-- `aegyo` – C++ GUI app for learning Korean Hangul with full mouse and keyboard input.
 - `fattura` – C++ GUI app for editing verification status CSV with autosave.
+- `aegyo` – C++ GUI app for learning Korean Hangul with full mouse and keyboard input.
+- `vroom` – In-progress C++ GUI 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.
 
 More: [ryouze.net/projects](https://ryouze.net/projects)
 
