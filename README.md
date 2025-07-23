@@ -2,11 +2,11 @@
 
 ### About Me
 
-I am a software developer with 3+ years of experience building production-grade tools across NLP, backend pipelines, and cross-platform desktop applications. I work primarily in Python and modern C++, with a focus on CI/CD automation, performance, and robust infrastructure.
+I hold an M.A. in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology) from Adam Mickiewicz University. This interdisciplinary program combines linguistics with computer science, cognitive science, and AI to study language using both theoretical and experimental methods.
 
-I was part of the [PRODIS project](https://prodis-opus19.github.io), where I developed a [phoneme-level GPT model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112), built CI pipelines for large-scale data processing, and shipped internal tooling used by linguists and annotators.
+Over a paid 3-year internship on the [PRODIS project](https://prodis-opus19.github.io), I built and maintained the full machine learning and data processing stack. This included a [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), CI pipelines for survey processing, transcription QA tools, a batch ASR wrapper, and a custom web interface for data collection. I also developed an internal GUI tool to track the progress of data collection.
 
-Outside of work, I develop game engines, system utilities, and self-hosted backend services. I’ve been using Linux since 2016 and maintain a home server.
+Outside of research, I build cross-platform tools, games, and backend infrastructure in Python and C++. My projects emphasize automation, reproducibility, and performance. I've used Linux since 2016 and maintain a self-hosted server.
 
 ---
 
