@@ -49,8 +49,8 @@ More: [ryouze.net/projects](https://ryouze.net/projects)
 
 ### Contact
 
-- **Website**: [ryouze.net](https://ryouze.net/)
-- **LinkedIn**: [Jan Foremski](https://www.linkedin.com/in/jan-foremski-ab60122b8/)
+- **Website**: [ryouze.net](https://ryouze.net)
+- **LinkedIn**: [Jan Foremski](https://www.linkedin.com/in/jan-foremski-ab60122b8)
 - **Email**: [mirai@ryouze.net](mailto:mirai@ryouze.net)
 
 ---
