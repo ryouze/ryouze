@@ -4,7 +4,7 @@
 
 I hold an M.A. in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology) from Adam Mickiewicz University. This interdisciplinary program combines linguistics with computer science, cognitive science, and AI to study language using both theoretical and experimental methods.
 
-Over a paid 3-year research internship on the [PRODIS project](https://prodis-opus19.github.io), I built and maintained the full machine learning and data processing stack. This included a [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), CI pipelines for survey processing, transcription QA tools, a batch ASR wrapper, and a custom web interface for data collection. I also developed an internal GUI tool to track the progress of data collection.
+Over a paid 3-year research internship on the [PRODIS project](https://prodis-opus19.github.io), I built and maintained the full machine learning and data processing stack. This included a first-of-its-kind [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), CI pipelines for survey processing, transcription QA tools, a batch ASR wrapper, and a custom web interface for data collection. I also developed an internal GUI tool to track the progress of data collection.
 
 Outside of research, I build cross-platform tools, games, and backend infrastructure in Python and C++. My projects emphasize automation, reproducibility, and performance. I've used Linux since 2016 and maintain a self-hosted server.
 
@@ -42,7 +42,7 @@ Highlights include:
 - `survey` – Python CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.
 - `asr` – Python CLI wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.
 - `header-warden` – C++ CLI multithreaded static analysis tool that reports missing standard library headers in C++ code.
-- `fattura` – C++ GUI app for editing verification status CSV with autosave.
+- `fattura` – C++ GUI app for editing transcription verification status CSV with autosave.
 - `aegyo` – C++ GUI app for learning Korean Hangul with full mouse and keyboard input.
 - `vroom` – In-progress C++ GUI 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.
 
