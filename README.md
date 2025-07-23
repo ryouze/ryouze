@@ -2,25 +2,56 @@
 
 ### About Me
 
-- 🎓 M.A. in [Language, Mind, Technology](https://anglistyka.amu.edu.pl/en/for-candidates/full-time-ma-programmes/language-mind-technology)
-- 🧑‍💻 NLP & Software Developer in the [2020/37/B/HS2/04161](https://prodis-opus19.github.io/) project
-  - Developed a [phoneme-level GPT language model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112)
+I'm a software developer with 3+ years of experience building production-grade tools across NLP, backend pipelines, and cross-platform desktop applications. I work primarily in Python and modern C++, with a focus on CI/CD automation, performance, and robust infrastructure.
+
+I was part of the [PRODIS project](https://prodis-opus19.github.io), where I developed a [phoneme-level GPT model for predicting surprisal in Polish](https://arxiv.org/abs/2404.10112), built CI pipelines for large-scale data processing, and shipped internal tooling used by linguists and annotators.
+
+Outside of work, I develop game engines, system utilities, and self-hosted backend services. I’ve been using Linux since 2016 and maintain a home server.
 
 ---
 
 ### Tech Stack
 
-- 💻 **Languages**: Python, C/C++, C#, JavaScript, R, SQL
-- 🧰 **Tooling**: Git, CI/CD (GitHub Actions), CMake, Bash, systemd
-- 🖥️ **Platforms**: macOS, Linux
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+#### Tooling & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-0091EA?style=flat)
+
+---
+
+### Projects
+
+Highlights include:
+
+- `vroom` – Arcade-style 2D racing engine with procedural track generation and AI. Custom asset pipeline, cross-platform native builds.
+- `header-warden` – C++ header dependency checker with multithreaded parsing and static analysis.
+- `aegyo` – GUI tool for learning Korean Hangul, built in C++ with full keyboard/mouse input.
+- `asr` – Whisper wrapper with batch speech recognition and preprocessing.
+- `model` – Full training and evaluation pipeline for a Polish phoneme-level GPT language model.
+
+More: [ryouze.net/projects](https://ryouze.net/projects)
 
 ---
 
 ### Contact
 
-- 📝 **Website**: [ryouze.net](https://ryouze.net/)
-- 🔗 **LinkedIn**: [Jan Foremski](https://www.linkedin.com/in/jan-foremski-ab60122b8/)
-- 📫 **Email**: [mirai@ryouze.net](mailto:mirai@ryouze.net)
+- **Website**: [ryouze.net](https://ryouze.net/)
+- **LinkedIn**: [Jan Foremski](https://www.linkedin.com/in/jan-foremski-ab60122b8/)
+- **Email**: [mirai@ryouze.net](mailto:mirai@ryouze.net)
 
 ---
 
