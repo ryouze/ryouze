@@ -38,15 +38,19 @@ Outside of research, I build cross-platform tools, games, and backend infrastruc
 
 Highlights include:
 
-- `model` – Python CLI pipeline for training a phoneme-level GPT model on Polish IPA, with a custom tokenizer, TOML-based configs, and multithreaded scripts for formant extraction, surprisal prediction, alignment, and stress annotation.
-- `survey` – Python CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.
-- `asr` – Python CLI wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.
-- `header-warden` – C++ CLI multithreaded static analysis tool that reports missing standard library headers in C++ code.
-- `fattura` – C++ GUI app for editing transcription verification status CSV with autosave.
-- `aegyo` – C++ GUI app for learning Korean Hangul with full mouse and keyboard input.
-- `vroom` – In-progress C++ GUI 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.
+| Name                                                     | Stack                          | Type        | Description                                                                                                                                                                                                   |
+| -------------------------------------------------------- | ------------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| model                                                    | Python, PyTorch, NumPy, Pandas | CLI tool    | Pipeline for training a phoneme-level GPT model on Polish IPA, with custom tokenizer, TOML configs, and multithreaded scripts for formant extraction, surprisal prediction, alignment, and stress annotation. |
+| [vroom](https://github.com/ryouze/vroom)                 | C++20, SFML3, ImGui            | Game Engine | 2D racing game with arcade drift physics, procedurally generated tracks, and waypoint AI.                                                                                                                     |
+| survey                                                   | Python, Pandas                 | CLI tool    | CI-based tool for cleaning and standardizing survey exports, including translation and structural validation.                                                                                                 |
+| asr                                                      | Python, Whisper                | CLI tool    | Wrapper around Whisper for batch ASR with stereo-to-mono conversion and model/language selection.                                                                                                             |
+| [header-warden](https://github.com/ryouze/header-warden) | C++17                          | CLI tool    | Multithreaded static analysis tool that reports missing standard library headers in C++ code.                                                                                                                 |
+| [aegyo](https://github.com/ryouze/aegyo)                 | C++20, SFML3                   | Desktop app | GUI app for learning Korean Hangul with mouse and keyboard input.                                                                                                                                             |
+| fattura                                                  | C++17, SFML2                   | Desktop app | GUI app for editing transcription verification status CSV with autosave.                                                                                                                                      |
 
-More: [ryouze.net/projects](https://ryouze.net/projects)
+Full list: [ryouze.net/projects](https://ryouze.net/projects)
+
+The unlinked projects belong to the science project and remain private for now.
 
 ---
 
