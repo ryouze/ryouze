@@ -19,6 +19,7 @@ Outside of research, I build cross-platform tools, games, and backend infrastruc
 <!-- [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#) -->
 
 #### Machine Learning
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
