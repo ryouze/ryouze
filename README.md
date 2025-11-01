@@ -8,7 +8,6 @@ Previously, during a three-year paid research internship at the [PRODIS project]
 
 Outside of work, I develop cross-platform C++ applications and maintain a Linux home server for self-hosting.
 
----
 
 ## Tech Stack
 
@@ -31,7 +30,6 @@ Outside of work, I develop cross-platform C++ applications and maintain a Linux 
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
----
 
 ## Projects
 
