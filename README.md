@@ -52,11 +52,3 @@ Highlights include:
 Full list: [ryouze.net/projects](https://ryouze.net/projects)
 
 The unlinked projects belong to the science project and remain private for now.
-
----
-
-### Contact
-
-- **Website**: [ryouze.net](https://ryouze.net)
-- **LinkedIn**: [Jan Foremski](https://www.linkedin.com/in/jan-foremski-ab60122b8)
-- **Email**: [mirai@ryouze.net](mailto:mirai@ryouze.net)
