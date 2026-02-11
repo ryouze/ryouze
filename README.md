@@ -1,10 +1,10 @@
 ## About Me
 
-I am a machine learning engineer with over three years of experience in applied ML and software development.
+I am a machine learning engineer with over four years of experience in machine learning and software development.
 
 I currently work at [EPR Labs](https://epr-labs.com), where I develop software and data pipelines for training, evaluating, and deploying predictive and generative ML models in Python.
 
-Previously, during a three-year paid research internship at the [PRODIS project](https://prodis-opus19.github.io), I built and maintained the full machine learning and data processing stack. My work included developing the first [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), CI pipelines for survey processing, GUI transcription QA tools, a batch ASR wrapper, and a web interface for data collection.
+Previously, during a paid research internship at the [PRODIS project](https://prodis-opus19.github.io), I built and maintained the full machine learning and data processing stack. My work included developing the first [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), CI pipelines for survey processing, GUI transcription QA tools, a batch ASR wrapper, and a web interface for data collection.
 
 Outside of work, I develop cross-platform C++ applications and maintain a Linux home server for self-hosting.
 
@@ -32,13 +32,13 @@ Outside of work, I develop cross-platform C++ applications and maintain a Linux 
 
 Highlights include:
 
-| Name                                                     | Stack                          | Type        | Description                                                                                                                                                                                                   |
-| -------------------------------------------------------- | ------------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name                                                     | Stack                          | Type        | Description                                                                                                                                                                        |
+| -------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | model                                                    | Python, PyTorch, NumPy, Pandas | CLI tool    | Pipeline for training a phoneme-level GPT model to predict surprisal in Polish. Custom IPA tokenizer, parallelized steps for formant extraction, alignment, and stress annotation. |
-| [vroom](https://github.com/ryouze/vroom)                 | C++20, SFML3, ImGui            | Game        | 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.                                                                                                                     |
-| asr                                                      | Python, Whisper, FFmpeg        | CLI tool    | Pipeline for batch automatic speech recognition with stereo-to-mono conversion.                                                                                                                               |
-| [header-warden](https://github.com/ryouze/header-warden) | C++17                          | CLI tool    | Multithreaded static analysis tool that reports missing standard library headers in C++ code.                                                                                                                 |
-| [aegyo](https://github.com/ryouze/aegyo)                 | C++20, SFML3                   | Desktop app | GUI app for learning Korean Hangul.                                                                                                                                                                           |
+| [vroom](https://github.com/ryouze/vroom)                 | C++20, SFML3, ImGui            | Game        | 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.                                                                                          |
+| asr                                                      | Python, Whisper, FFmpeg        | CLI tool    | Pipeline for batch automatic speech recognition with stereo-to-mono conversion.                                                                                                    |
+| [header-warden](https://github.com/ryouze/header-warden) | C++17                          | CLI tool    | Multithreaded static analysis tool that reports missing standard library headers in C++ code.                                                                                      |
+| [aegyo](https://github.com/ryouze/aegyo)                 | C++20, SFML3                   | Desktop app | GUI app for learning Korean Hangul.                                                                                                                                                |
 
 Full list: [ryouze.net/projects](https://ryouze.net/projects)
 
