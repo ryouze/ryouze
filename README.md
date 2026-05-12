@@ -30,14 +30,14 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 
 Highlights include:
 
-| Name                                                     | Stack                          | Type        | Description                                                                                                                                                                        |
-| -------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| model                                                    | Python, PyTorch, NumPy, Pandas | CLI tool    | Pipeline for training a phoneme-level GPT model to predict surprisal in Polish. Custom IPA tokenizer, parallelized steps for formant extraction, alignment, and stress annotation. |
-| [vroom](https://github.com/ryouze/vroom)                 | C++20, SFML3, ImGui            | Game        | 2D racing game with arcade drift physics, procedurally-generated tracks, and waypoint AI.                                                                                          |
-| asr                                                      | Python, Whisper, FFmpeg        | CLI tool    | Pipeline for batch automatic speech recognition with stereo-to-mono conversion.                                                                                                    |
-| [header-warden](https://github.com/ryouze/header-warden) | C++17                          | CLI tool    | Multithreaded static analysis tool that reports missing standard library headers in C++ code.                                                                                      |
-| [aegyo](https://github.com/ryouze/aegyo)                 | C++20, SFML3                   | Desktop app | GUI app for learning Korean Hangul.                                                                                                                                                |
+| Name                                                     | Stack                          | Type        | Description                                                                                                                                                                         |
+| -------------------------------------------------------- | ------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Phoneme-level GPT pipeline                               | Python, PyTorch, NumPy, Pandas | CLI tool    | Pipeline for training a phoneme-level GPT model to predict surprisal in Polish. Custom IPA tokenizer, parallelized formant extraction, and automatic alignment + stress annotation. |
+| [vroom](https://github.com/ryouze/vroom)                 | C++20, SFML3, ImGui            | Game        | 2D racing game featuring arcade drift physics, procedurally-generated tracks, and waypoint-based AI.                                                                                |
+| Bulk automatic speech recognition                        | Python, Whisper, FFmpeg        | CLI tool    | Pipeline  for bulk automatic speech recognition (ASR) using OpenAI Whisper. Also performs stereo-to-mono conversion using FFmpeg.                                                       |
+| [header-warden](https://github.com/ryouze/header-warden) | C++17                          | CLI tool    | Multithreaded static analysis tool that reports missing standard library headers in C++ code.                                                                                       |
+| [aegyo](https://github.com/ryouze/aegyo)                 | C++20, SFML3                   | Desktop app | GUI app for learning Korean Hangul.                                                                                                                                                 |
 
 Full list: [ryouze.net/projects](https://ryouze.net/projects)
 
-The unlinked projects belong to the science project and remain private for now.
+The unlinked projects belong to the science project and remain private.
