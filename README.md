@@ -6,8 +6,6 @@ I currently work at [EPR Labs](https://epr-labs.com), where I develop software a
 
 Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I developed the first [phoneme-level GPT model for Polish](https://arxiv.org/abs/2404.10112), along with CI pipelines for survey processing, GUI QA tools, a batch ASR wrapper, and a web interface for data collection.
 
----
-
 ## Tech Stack
 
 **ML & Data**
@@ -23,8 +21,6 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
-
----
 
 ## Projects
 
