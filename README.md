@@ -13,6 +13,7 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
+[![Textual](https://img.shields.io/badge/Textual-004578?logo=textual&logoColor=white)](#)
 
 **Testing & Deployment**
 
