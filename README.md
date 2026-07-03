@@ -12,6 +12,9 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
+
+**UI & App Frameworks**
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
 [![Textual](https://img.shields.io/badge/Textual-004578?logo=textual&logoColor=white)](#)
 
@@ -20,6 +23,7 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)](#)
 
 ## Projects
 
