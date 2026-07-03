@@ -12,6 +12,7 @@ Previously, as part of the [PRODIS project](https://prodis-opus19.github.io), I 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)](#)
 
 **UI & App Frameworks**
 
